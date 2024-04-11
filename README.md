@@ -1,1 +1,1 @@
-# patrones-dise-o-java
+# patrones-diseno-o-java
